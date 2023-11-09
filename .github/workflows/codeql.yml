@@ -1,4 +1,4 @@
-https://github.com/srbaeza-ai/java-tron/blob/master/.github/workflows/codeql.ymlname: "CodeQL"
+https://github.com/srbaeza-ai/java-tron/blob/master/.github/workflows/codeql.ymlhttps://github.com/srbaeza-ai/java-tron/blob/master/.github/workflows/codeql.ymlname: "CodeQL"
 
 on:
   push:
